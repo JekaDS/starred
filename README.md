@@ -1,6 +1,6 @@
 ## NLP Software
 
-explosion / spaCy
+https://github.com/rushter/MLAlgorithms
 Industrial-strength Natural Language Processing (NLP) with Python and Cython
 Python
 
