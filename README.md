@@ -47,6 +47,21 @@ Python
 https://github.com/salestock/fastText.py  
 A Python interface for Facebook fastText  
 C++  
+https://github.com/mikelynn2/sentimentAPI  
+A fast python scikit-learn text sentiment API server.  
+Python  
+https://github.com/dselivanov/text2vec  
+Fast vectorization, topic modeling, distances and GloVe word embeddings in R.  
+R  
+https://github.com/crm416/semantic  
+A Python library for extracting semantic information from text, such as dates and numbers.  
+Python  
+https://github.com/shivam5992/textstat  
+calculate statistics of text  
+Python  
+https://github.com/orenmel/context2vec  
+context2vec: Learning Generic Context Embedding with Bidirectional LSTM  
+Python  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -85,6 +100,12 @@ C++
 https://github.com/blaze/blaze  
 NumPy and Pandas interface to Big Data  
 Python  
+https://github.com/Parsely/probably  
+Probabilistic Data Structures in Python (originally presented at PyData 2013)  
+Python  
+https://github.com/marcotcr/lime  
+Lime: Explaining the predictions of any machine learning classifier  
+JavaScript  
 
 ## ML Software
 
@@ -122,6 +143,9 @@ Python
 https://github.com/HDI-Project/DeepMining  
 Auto-tuning Data Science Pipelines  
 HTML  
+https://github.com/rsteca/sklearn-deap  
+Use evolutionary algorithms instead of gridsearch in scikit-learn  
+Python  
 
 ### Misc
 https://github.com/rushter/MLAlgorithms  
@@ -195,6 +219,12 @@ Python
 https://github.com/fukatani/stacked_generalization  
 Library for machine learning stacking generalization.  
 Python  
+https://github.com/albahnsen/CostSensitiveClassification  
+CostSensitiveClassification Library in Python  
+Python  
+https://github.com/christophM/rulefit  
+Python implementation of the rulefit algorithm  
+Python  
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -238,6 +268,18 @@ Python
 https://github.com/srendle/libfm  
 Library for factorization machines  
 C++  
+https://github.com/arthurmensch/modl  
+Randomized online matrix factorization  
+Python  
+https://github.com/sckangz/recom_mc  
+this is the code for AAAI 2016 paper: Top-N Recommender System via Matrix Completion  
+Matlab  
+https://github.com/cjlin1/libmf  
+LIBMF is a library for large-scale sparse matrix factorization.  
+C++  
+https://github.com/manasRK/word2vec-recommender  
+Recommendation engine based on contextual word embeddings  
+Python  
 
 ### Deep Learning
 https://github.com/yanpanlau/DDPG-Keras-Torcs  
@@ -277,6 +319,15 @@ Unsupervised Learning of Video Representations using LSTMs
 Cuda  
 https://github.com/aditya-grover/node2vec  
 word2vec  
+Python  
+https://github.com/thomasmesnard/DeepMind-Teaching-Machines-to-Read-and-Comprehend  
+Implementation of "Teaching Machines to Read and Comprehend" proposed by Google DeepMind  
+Python  
+https://github.com/hidasib/GRU4Rec  
+GRU4Rec is the cleaned & simplified implementation of the algorithm of the "Session-based Recommendations with Recurrent Neural Networks" paper, published at ICLR 2016. The code is stripped of features that we had found to be unhelpful in increasing accuracy.  
+Python  
+https://github.com/seomoz/word2gauss  
+Gaussian word embeddings  
 Python  
 
 ### Gradient Boosting
@@ -319,6 +370,17 @@ Jupyter Notebook
 https://github.com/DartML/Stein-Variational-Gradient-Descent  
 code for the paper "Stein Variational Gradient Descent (SVGD): A General Purpose Bayesian Inference Algorithm"  
 Python  
+https://github.com/davpinto/regularizedgb  
+Regularized Gaussian Bayes Classifier (RGB) using the Ledoit-Wolf shrinkage estimator of covariance matrix  
+R  
+
+### Visualization
+https://github.com/olgabot/prettyplotlib  
+Painlessly create beautiful matplotlib plots.  
+Python  
+https://github.com/altair-viz/altair  
+Declarative statistical visualization library for Python  
+Jupyter Notebook  
 
 ## Docs & Tutorials
 
@@ -381,6 +443,21 @@ The Fallacy of Placing Confidence in Confidence Intervals
 HTML  
 https://github.com/ujjwalkarn/Machine-Learning-Tutorials  
 machine learning and deep learning tutorials, articles and other resources  
+https://github.com/jxieeducation/DIY-Data-Science  
+Machine Learning Tool Guides and Theory Notes  
+https://github.com/albahnsen/PracticalMachineLearningClass  
+Practical Machine Learning  
+Jupyter Notebook  
+https://github.com/albahnsen/ML_RiskManagement  
+Short Course - Applied Machine Learning for Risk Management  
+Jupyter Notebook  
+https://github.com/rasbt/pattern_classification  
+A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks  
+Jupyter Notebook  
+https://github.com/frnsys/ai_notes  
+machine learning/artificial intelligence notes  
+Jupyter Notebook  
+
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
 Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
@@ -422,6 +499,11 @@ Jupyter Notebook
 https://github.com/aymericdamien/TensorFlow-Examples  
 TensorFlow Tutorial and Examples for beginners  
 Jupyter Notebook  
+https://github.com/MaxwellRebo/awesome-2vec  
+Curated list of 2vec-type embedding models   
+https://github.com/terryum/awesome-deep-learning-papers   
+Awesome Deep Learning Papers  
+
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
 Reinforcement learning resources curated  
@@ -466,13 +548,18 @@ https://github.com/bayandin/awesome-awesomeness
 A curated list of awesome awesomeness  
 https://github.com/bmtgoncalves/Mining-Georeferenced-Data  
 A hands on guide on using Python to collect, analyse and mine geo-referenced data from location based services (e.g. Foursquare, Twitter) and the Sharing Economy (Uber, Airbnb etc.).  
+https://github.com/Kiloreux/awesome-robotics  
+A list of awesome Robotics resources  
 
-### C++
+### C++, Python & SW Engineering
 https://github.com/Smerity/yolo-cpp  
 YOLO C++: A crash course for those needing to learn street fighting C++  
 C++  
 https://github.com/kamyu104/LeetCode  
 📝 Python / C++ 11 Solutions of All 434 LeetCode Questions  
+Python  
+https://github.com/vinta/awesome-python  
+A curated list of awesome Python frameworks, libraries, software and resources  
 Python  
 
 ## Misc Software
@@ -493,6 +580,9 @@ Extract references (pdf, url, doi, arxiv) and metadata from a PDF; optionally do
 Python  
 https://github.com/ResidentMario/watsongraph  
 Concept discovery and recommendation library built on top of the IBM Watson cognitive API.  
+Python  
+https://github.com/p-e-w/maybe  
+📂 🐇 🎩 See what a program does before deciding whether you really want it to happen.  
 Python  
 
 ## Cases, Examples, Competitions etc
