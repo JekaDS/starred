@@ -18,7 +18,11 @@ Scilab
 ### Recommender Systems
 https://github.com/Evfro/polara  
 Recommender system and evaluation framework for top-n recommendations tasks that respects polarity of feedbacks. Fast, flexible and easy to use. Written in python, boosted by scientific python stack.  
-Python 
+Python  
+### Deep Learning
+https://github.com/yanpanlau/DDPG-Keras-Torcs  
+Using Keras and Deep Deterministic Policy Gradient to play TORCS  
+Python  
 
 ## Docs
 ### Computer Science
@@ -31,6 +35,10 @@ Python
 ### Remote
 https://github.com/engineerapart/TheRemoteFreelancer  
 Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
+### Deep Learning
+https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  
+Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!  
+Python  
 
 ## Time Series
 https://github.com/blue-yonder/tsfresh  
