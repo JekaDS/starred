@@ -23,6 +23,7 @@ Python
 https://github.com/nlp-compromise/nlp_compromise  
 a cool way to use natural language in javascript  
 JavaScript  
+
 ## Data Science Software
 https://github.com/joke2k/faker  
 Faker is a Python package that generates fake data for you.  
@@ -38,6 +39,15 @@ Task generation for testing text understanding and reasoning
 Lua  
 https://github.com/spotify/luigi  
 Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in.  
+Python  
+https://github.com/drivendata/cookiecutter-data-science  
+A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.  
+Makefile  
+https://github.com/iamaziz/PyDataset  
+Instant access to many datasets.  
+Python  
+https://github.com/GoogleCloudPlatform/google-cloud-python  
+Google Cloud Client Library for Python  
 Python  
 
 ## ML Software
@@ -76,6 +86,27 @@ C++
 https://github.com/rushter/heamy  
 A set of useful tools for competitive data science.  
 Python  
+https://github.com/tmadl/sklearn-expertsys  
+Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models  
+Python  
+https://github.com/tmadl/semisup-learn  
+Semi-supervised learning frameworks for python, which allow fitting scikit-learn classifiers to partially labeled data  
+Python  
+https://github.com/TeamHG-Memex/eli5  
+A library for debugging machine learning classifiers and explaining their predictions  
+Jupyter Notebook  
+https://github.com/TeamHG-Memex/sklearn-crfsuite  
+scikit-learn inspired API for CRFsuite  
+Python  
+https://github.com/laurencium/Causalinference  
+Causal Inference in Python  
+Python  
+https://github.com/scikit-learn-contrib/categorical-encoding  
+A library of sklearn compatible categorical variable encoders  
+Python  
+https://github.com/scikit-learn-contrib/hdbscan  
+A high performance implementation of HDBSCAN clustering.  
+Jupyter Notebook  
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
 Confidence intervals for scikit-learn forest algorithms  
@@ -86,9 +117,21 @@ Scilab
 https://github.com/baidu/fast_rgf  
 Multi-core implementation of Regularized Greedy Forest  
 C++  
-### Recommender Systems
+https://github.com/tmadl/sklearn-random-rotation-ensembles  
+Scikit-learn compatible implementations of the Random Rotation Ensemble idea of (Blaser & Fryzlewicz, 2016)  
+Python  
+https://github.com/tmadl/sklearn-random-bits-forest  
+Scikit-learn compatible wrapper of the Random Bits Forest program written by (Wang et al., 2016)  
+Python  
+### Recommender Systems & Matrix Factorization
 https://github.com/Evfro/polara  
 Recommender system and evaluation framework for top-n recommendations tasks that respects polarity of feedbacks. Fast, flexible and easy to use. Written in python, boosted by scientific python stack.  
+Python  
+https://github.com/lyst/lightfm  
+A Python implementation of LightFM, a hybrid recommendation algorithm.  
+Python  
+https://github.com/Mendeley/mrec  
+A recommender systems development and evaluation package by Mendeley  
 Python  
 ### Deep Learning
 https://github.com/yanpanlau/DDPG-Keras-Torcs  
@@ -171,11 +214,29 @@ https://github.com/bulutyazilim/awesome-datascience
 https://github.com/donnemartin/data-science-ipython-notebooks  
 Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.  
 Python  
+https://github.com/Quartz/bad-data-guide  
+An exhaustive reference to problems seen in real-world data along with suggestions on how to resolve them.  
+https://github.com/hangtwenty/dive-into-machine-learning  
+Dive into Machine Learning with Python Jupyter notebook and scikit-learn  
+https://github.com/jadianes/spark-py-notebooks  
+Apache Spark & Python (pySpark) tutorials for Big Data Analysis and Machine Learning as IPython / Jupyter notebooks  
+Jupyter Notebook  
+https://github.com/ogrisel/parallel_ml_tutorial  
+Tutorial on scikit-learn and IPython for parallel machine learning  
+Jupyter Notebook  
+https://github.com/johnmyleswhite/ML_for_Hackers  
+Code accompanying the book "Machine Learning for Hackers"  
+R  
+https://github.com/johnmyleswhite/MLNotes  
+Very concise notes on machine learning and statistics.  
+R  
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
 Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
 https://github.com/dennybritz/startupreadings  
 Reading list for all things startup-related  
+https://github.com/jessicard/remote-jobs  
+A list of semi to fully remote-friendly companies in tech  
 ### Deep Learning
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  
 Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!  
@@ -242,10 +303,23 @@ https://github.com/kamyu104/LeetCode
 📝 Python / C++ 11 Solutions of All 434 LeetCode Questions  
 Python  
 
-## Misc
+## Misc Software
 https://github.com/owocki/pytrader  
 cryptocurrency trading robot  
 Python  
+https://github.com/jflesch/paperwork  
+📎 Using scanners and OCR to grep paper documents the easy way  
+Python  
+https://github.com/codelucas/newspaper  
+News, full-text, and article metadata extraction in Python 3  
+Python  
+https://github.com/pybind/pybind11  
+Seamless operability between C++11 and Python  
+C++  
+https://github.com/metachris/pdfx  
+Extract references (pdf, url, doi, arxiv) and metadata from a PDF; optionally download all referenced PDFs  
+Python  
+
 ## Cases, Examples, Competitions etc
 https://github.com/dennybritz/sentiment-analysis  
 Japanese Sentiment Analysis  
@@ -256,3 +330,9 @@ Python
 https://github.com/jimfleming/numerai  
 Code from my experiments on Numerai  
 Jupyter Notebook  
+https://github.com/awslabs/machine-learning-samples  
+Sample applications built using Amazon Machine Learning.  
+Python  
+https://github.com/ericchiang/churn  
+Code accompanying blog post  
+Python  
