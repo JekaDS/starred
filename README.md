@@ -63,6 +63,7 @@ A lightweight platform for developing information extraction systems using data 
 Python  
 
 ## ML Software
+
 ### Auto ML, Hyperparameters, Optimization
 https://github.com/automl/auto-sklearn  
 automl / auto-sklearn  
@@ -85,6 +86,7 @@ Python
 https://github.com/HIPS/Spearmint  
 Spearmint Bayesian optimization codebase  
 Python  
+
 ### Misc
 https://github.com/rushter/MLAlgorithms  
 Minimal and clean examples of machine learning algorithms  
@@ -145,7 +147,9 @@ Python
 https://github.com/rasbt/mlxtend  
 A library of extension and helper modules for Python's data analysis and machine learning libraries.  
 Python  
-
+https://github.com/pystruct/pystruct  
+Simple structured learning framework for python  
+Python  
 https://github.com/amueller/word_cloud  
 A little word cloud generator in Python   
 Python  
@@ -215,6 +219,7 @@ Learning to Communicate with Deep Multi-Agent Reinforcement Learning
 Lua  
 https://github.com/HFTrader/DeepLearningBook  
 MIT Deep Learning Book in PDF format   
+
 ### Gradient Boosting
 https://github.com/Microsoft/LightGBM  
 A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.  
@@ -231,10 +236,12 @@ Python
 https://github.com/dmlc/xgboost  
 Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow  
 C++  
+
 ### Dimensionality Reduction
 https://github.com/DmitryUlyanov/Multicore-TSNE  
 Parallel t-SNE implementation with Python and Torch wrappers.  
 C++  
+
 ### Time Series
 https://github.com/blue-yonder/tsfresh  
 Automatic extraction of relevant features from time series:  
@@ -245,14 +252,18 @@ Python
 https://github.com/alexminnaar/time-series-classification-and-clustering  
 Time series classification and clustering code written in Python. Mostly based on the work of Dr. Eamonn Keogh at University of California Riverside  
 Jupyter Notebook  
+
 ### Bayesian
 https://github.com/AmazaspShumik/sklearn-bayes  
 Python package for Bayesian Machine Learning with scikit-learn API  
 Jupyter Notebook  
+
 ## Docs & Tutorials
+
 ### Computer Science
 https://github.com/Developer-Y/cs-video-courses  
 List of Computer Science courses with video lectures.  
+
 ### Data Science & ML
 https://github.com/rushter/data-science-blogs  
 A curated list of data science blogs  
@@ -301,6 +312,9 @@ common data analysis and machine learning tasks using python
 Python  
 https://github.com/caesar0301/awesome-public-datasets  
 An awesome list of high-quality open datasets in public domains (on-going).  
+https://github.com/richarddmorey/ConfidenceIntervalsFallacy  
+The Fallacy of Placing Confidence in Confidence Intervals  
+HTML  
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
 Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
@@ -309,7 +323,10 @@ Reading list for all things startup-related
 https://github.com/jessicard/remote-jobs  
 A list of semi to fully remote-friendly companies in tech  
 https://github.com/lukasz-madon/awesome-remote-job  
-A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python  
+A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+https://github.com/hugo53/awesome-RemoteWork  
+Resources for remote workers: approaches, hiring page, remote life and more.  
+
 ### Deep Learning
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  
 Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!  
@@ -333,6 +350,7 @@ https://github.com/sbrugman/deep-learning-papers
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.  
 https://github.com/gokceneraslan/awesome-deepbio  
 A curated list of awesome deep learning applications in the field of computational biology  
+
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
 Reinforcement learning resources curated  
@@ -342,13 +360,15 @@ Jupyter Notebook
 https://github.com/carpedm20/deep-rl-tensorflow  
 TensorFlow implementation of Deep Reinforcement Learning papers  
 Python  
+
 ### Bayesian
 https://github.com/ReactiveCJ/BayesianLearning  
 Bayesian Machine Learning  
 https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers  
 aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  
 Jupyter Notebook  
-### NLP
+
+### NLP & IR
 https://github.com/keonkim/awesome-nlp  
 📖 A curated list of resources dedicated to Natural Language Processing (NLP)  
 https://github.com/anuzzolese/oke-challenge-2016  
@@ -361,6 +381,7 @@ Python
 https://github.com/unnati-xyz/intro-to-deep-learning-for-nlp  
 The repository contains code walkthroughs which introduces Deep Learning in the field of Natural Language Processing.  
 Jupyter Notebook  
+
 ### Misc
 https://github.com/sindresorhus/awesome  
 😎 Curated list of awesome lists  
@@ -370,6 +391,11 @@ https://github.com/tiimgreen/github-cheat-sheet
 A list of cool features of Git and GitHub.  
 https://github.com/jwasham/google-interview-university  
 A complete daily plan for studying to become a Google software engineer.  
+https://github.com/bayandin/awesome-awesomeness  
+A curated list of awesome awesomeness  
+https://github.com/bmtgoncalves/Mining-Georeferenced-Data  
+A hands on guide on using Python to collect, analyse and mine geo-referenced data from location based services (e.g. Foursquare, Twitter) and the Sharing Economy (Uber, Airbnb etc.).  
+
 ### C++
 https://github.com/Smerity/yolo-cpp  
 YOLO C++: A crash course for those needing to learn street fighting C++  
@@ -422,3 +448,6 @@ sentimentr is designed to quickly calculate text polarity sentiment at the sente
 https://github.com/echen/link-prediction  
 Solution to Facebook's link prediction contest on Kaggle.  
 Scala  
+https://github.com/pratik008/HealthCare_Twitter_Analysis  
+Healthcare Twitter Analysis Initial Files  
+Python  
