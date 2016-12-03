@@ -29,6 +29,24 @@ Shell
 https://github.com/HazyResearch/mindbender  
 Tools for iterative knowledge base development with DeepDive  
 CoffeeScript  
+https://github.com/vinhkhuc/MemN2N-babi-python  
+End-To-End Memory Networks for bAbI question-answering tasks  
+Python  
+https://github.com/ayoungprogrammer/readAI  
+A simple AI capable of basic reading comprehension  
+Python  
+https://github.com/ayoungprogrammer/nlquery  
+Natural Language Engine on WikiData  
+Python  
+https://github.com/ayoungprogrammer/Lango  
+Language Lego  
+Python  
+https://github.com/bear/parsedatetime  
+Parse human-readable date/time strings  
+Python  
+https://github.com/salestock/fastText.py  
+A Python interface for Facebook fastText  
+C++  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -61,6 +79,12 @@ Python
 https://github.com/HazyResearch/snorkel  
 A lightweight platform for developing information extraction systems using data programming  
 Python  
+https://github.com/stxxl/stxxl  
+STXXL: Standard Template Library for Extra Large Data Sets  
+C++  
+https://github.com/blaze/blaze  
+NumPy and Pandas interface to Big Data  
+Python  
 
 ## ML Software
 
@@ -86,6 +110,18 @@ Python
 https://github.com/HIPS/Spearmint  
 Spearmint Bayesian optimization codebase  
 Python  
+https://github.com/edublancas/sklearn-evaluation  
+scikit-learn model evaluation made easy: plots, tables and markdown reports.  
+Python  
+https://github.com/amueller/word_cloud  
+A little word cloud generator in Python   
+Python  
+https://github.com/craffel/simple_spearmint  
+Spearmint, without the gum  
+Python  
+https://github.com/HDI-Project/DeepMining  
+Auto-tuning Data Science Pipelines  
+HTML  
 
 ### Misc
 https://github.com/rushter/MLAlgorithms  
@@ -150,9 +186,16 @@ Python
 https://github.com/pystruct/pystruct  
 Simple structured learning framework for python  
 Python  
-https://github.com/amueller/word_cloud  
-A little word cloud generator in Python   
+https://github.com/numenta/NAB  
+The Numenta Anomaly Benchmark  
 Python  
+https://github.com/numenta/nupic  
+Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms.  
+Python  
+https://github.com/fukatani/stacked_generalization  
+Library for machine learning stacking generalization.  
+Python  
+
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
 Confidence intervals for scikit-learn forest algorithms  
@@ -169,6 +212,10 @@ Python
 https://github.com/tmadl/sklearn-random-bits-forest  
 Scikit-learn compatible wrapper of the Random Bits Forest program written by (Wang et al., 2016)  
 Python  
+https://github.com/fukatani/rgf_python  
+Python Wrapper of Regularized Greedy Forest.  
+Python  
+
 ### Recommender Systems & Factorization
 https://github.com/Evfro/polara  
 Recommender system and evaluation framework for top-n recommendations tasks that respects polarity of feedbacks. Fast, flexible and easy to use. Written in python, boosted by scientific python stack.  
@@ -219,6 +266,18 @@ Learning to Communicate with Deep Multi-Agent Reinforcement Learning
 Lua  
 https://github.com/HFTrader/DeepLearningBook  
 MIT Deep Learning Book in PDF format   
+https://github.com/CuriousAI/ladder  
+Ladder network is a deep learning algorithm that combines supervised and unsupervised learning  
+Python  
+https://github.com/CuriousAI/tagger  
+Deep Unsupervised Perceptual Grouping  
+Jupyter Notebook  
+https://github.com/emansim/unsupervised-videos  
+Unsupervised Learning of Video Representations using LSTMs  
+Cuda  
+https://github.com/aditya-grover/node2vec  
+word2vec  
+Python  
 
 ### Gradient Boosting
 https://github.com/Microsoft/LightGBM  
@@ -257,12 +316,17 @@ Jupyter Notebook
 https://github.com/AmazaspShumik/sklearn-bayes  
 Python package for Bayesian Machine Learning with scikit-learn API  
 Jupyter Notebook  
+https://github.com/DartML/Stein-Variational-Gradient-Descent  
+code for the paper "Stein Variational Gradient Descent (SVGD): A General Purpose Bayesian Inference Algorithm"  
+Python  
 
 ## Docs & Tutorials
 
 ### Computer Science
 https://github.com/Developer-Y/cs-video-courses  
 List of Computer Science courses with video lectures.  
+Papers from the computer science community to read and discuss.  
+https://github.com/papers-we-love/papers-we-love  
 
 ### Data Science & ML
 https://github.com/rushter/data-science-blogs  
@@ -315,6 +379,8 @@ An awesome list of high-quality open datasets in public domains (on-going).
 https://github.com/richarddmorey/ConfidenceIntervalsFallacy  
 The Fallacy of Placing Confidence in Confidence Intervals  
 HTML  
+https://github.com/ujjwalkarn/Machine-Learning-Tutorials  
+machine learning and deep learning tutorials, articles and other resources  
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
 Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
@@ -350,7 +416,12 @@ https://github.com/sbrugman/deep-learning-papers
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.  
 https://github.com/gokceneraslan/awesome-deepbio  
 A curated list of awesome deep learning applications in the field of computational biology  
-
+https://github.com/arokem/try-tf  
+Simple code for trying out TensorFlow with simulated datasets  
+Jupyter Notebook  
+https://github.com/aymericdamien/TensorFlow-Examples  
+TensorFlow Tutorial and Examples for beginners  
+Jupyter Notebook  
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
 Reinforcement learning resources curated  
