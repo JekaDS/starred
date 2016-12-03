@@ -21,11 +21,16 @@ Recommender system and evaluation framework for top-n recommendations tasks that
 Python 
 
 ## Docs
+### Computer Science
 https://github.com/Developer-Y/cs-video-courses  
-List of Computer Science courses with video lectures.
+List of Computer Science courses with video lectures.  
+### Data Science
 https://github.com/rushter/data-science-blogs  
 A curated list of data science blogs  
-Python 
+Python  
+### Remote
+https://github.com/engineerapart/TheRemoteFreelancer  
+Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
 
 ## Time Series
 https://github.com/blue-yonder/tsfresh  
