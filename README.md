@@ -37,6 +37,10 @@ C++
 https://github.com/DmitryUlyanov/Multicore-TSNE  
 Parallel t-SNE implementation with Python and Torch wrappers.  
 C++  
+### Time Series
+https://github.com/blue-yonder/tsfresh  
+Automatic extraction of relevant features from time series:  
+Python  
 
 ## Docs
 ### Computer Science
@@ -69,7 +73,8 @@ Jupyter Notebook
 https://github.com/dennybritz/booknotes  
 Notes I'm taking when reading books  
 
-## Time Series
-https://github.com/blue-yonder/tsfresh  
-Automatic extraction of relevant features from time series:  
-Python  
+
+## Cases, Examples, Competitions etc
+https://github.com/dennybritz/sentiment-analysis  
+Japanese Sentiment Analysis  
+Jupyter Notebook  
