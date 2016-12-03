@@ -23,7 +23,6 @@ Python
 ## Docs
 https://github.com/Developer-Y/cs-video-courses  
 List of Computer Science courses with video lectures.
-
 https://github.com/rushter/data-science-blogs  
 A curated list of data science blogs  
 Python 
