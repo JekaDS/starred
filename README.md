@@ -42,7 +42,7 @@ https://github.com/blue-yonder/tsfresh
 Automatic extraction of relevant features from time series:  
 Python  
 
-## Docs
+## Docs & Tutorials
 ### Computer Science
 https://github.com/Developer-Y/cs-video-courses  
 List of Computer Science courses with video lectures.  
@@ -69,6 +69,12 @@ Reinforcement learning resources curated
 https://github.com/dennybritz/reinforcement-learning  
 Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.  
 Jupyter Notebook  
+https://github.com/carpedm20/deep-rl-tensorflow  
+TensorFlow implementation of Deep Reinforcement Learning papers  
+Python  
+### Bayesian
+https://github.com/ReactiveCJ/BayesianLearning  
+Bayesian Machine Learning  
 ### Misc
 https://github.com/dennybritz/booknotes  
 Notes I'm taking when reading books  
