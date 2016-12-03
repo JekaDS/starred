@@ -5,6 +5,9 @@ Python
 https://github.com/facebookresearch/fastText  
 Library for fast text representation and classification.  
 C++  
+https://github.com/Smerity/keras_snli  
+Simple Keras model that tackles the Stanford Natural Language Inference (SNLI) corpus using summation and/or recurrent neural networks  
+Python  
 ## Data Science Software
 https://github.com/joke2k/faker  
 Faker is a Python package that generates fake data for you.  
@@ -64,6 +67,12 @@ Python binding for Microsoft LightGBM
 Jupyter Notebook  
 https://github.com/thomaskeck/FastBDT  
 Stochastic Gradient Boosted Decision Trees as Standalone, TMVAPlugin and Python-Interface  
+C++  
+https://github.com/mirri66/xgbmagic  
+Pandas dataframe goes in, XGBoost model results come out  
+Python  
+https://github.com/dmlc/xgboost  
+Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow  
 C++  
 ### Dimensionality Reduction
 https://github.com/DmitryUlyanov/Multicore-TSNE  
