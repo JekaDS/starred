@@ -20,6 +20,9 @@ C++
 https://github.com/gunthercox/ChatterBot  
 ChatterBot is a machine learning, conversational dialog engine.  
 Python  
+https://github.com/nlp-compromise/nlp_compromise  
+a cool way to use natural language in javascript  
+JavaScript  
 ## Data Science Software
 https://github.com/joke2k/faker  
 Faker is a Python package that generates fake data for you.  
@@ -235,7 +238,14 @@ A complete daily plan for studying to become a Google software engineer.
 https://github.com/Smerity/yolo-cpp  
 YOLO C++: A crash course for those needing to learn street fighting C++  
 C++  
+https://github.com/kamyu104/LeetCode  
+📝 Python / C++ 11 Solutions of All 434 LeetCode Questions  
+Python  
 
+## Misc
+https://github.com/owocki/pytrader  
+cryptocurrency trading robot  
+Python  
 ## Cases, Examples, Competitions etc
 https://github.com/dennybritz/sentiment-analysis  
 Japanese Sentiment Analysis  
