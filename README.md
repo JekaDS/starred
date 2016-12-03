@@ -1,4 +1,4 @@
-## NLP Software
+## NLP & IR Software
 https://github.com/explosion/spaCy  
 Industrial-strength Natural Language Processing (NLP) with Python and Cython  
 Python  
@@ -23,6 +23,12 @@ Python
 https://github.com/nlp-compromise/nlp_compromise  
 a cool way to use natural language in javascript  
 JavaScript  
+https://github.com/HazyResearch/deepdive  
+DeepDive  
+Shell  
+https://github.com/HazyResearch/mindbender  
+Tools for iterative knowledge base development with DeepDive  
+CoffeeScript  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -49,6 +55,12 @@ Python
 https://github.com/GoogleCloudPlatform/google-cloud-python  
 Google Cloud Client Library for Python  
 Python  
+https://github.com/ResidentMario/missingno  
+Missing data visualization module for Python.  
+Python  
+https://github.com/HazyResearch/snorkel  
+A lightweight platform for developing information extraction systems using data programming  
+Python  
 
 ## ML Software
 ### Auto ML, Hyperparameters, Optimization
@@ -66,6 +78,12 @@ Efficient distributed hyperparameter search library written in Python.
 Python  
 https://github.com/scikit-optimize/scikit-optimize  
 Sequential model-based optimization with a `scipy.optimize` interface  
+Python  
+https://github.com/sigopt/sigopt_sklearn  
+SigOpt wrappers for scikit-learn methods  
+Python  
+https://github.com/HIPS/Spearmint  
+Spearmint Bayesian optimization codebase  
 Python  
 ### Misc
 https://github.com/rushter/MLAlgorithms  
@@ -107,6 +125,30 @@ Python
 https://github.com/scikit-learn-contrib/hdbscan  
 A high performance implementation of HDBSCAN clustering.  
 Jupyter Notebook  
+https://github.com/scikit-learn-contrib/scikit-learn-contrib  
+scikit-learn compatible projects  
+https://github.com/scikit-learn-contrib/imbalanced-learn  
+Python module to perform under sampling and over sampling with various techniques.  
+Python  
+https://github.com/scikit-learn-contrib/lightning  
+Large-scale linear classification, regression and ranking in Python  
+Python  
+https://github.com/scikit-learn-contrib/py-earth  
+A Python implementation of Jerome Friedman's Multivariate Adaptive Regression Splines  
+Python  
+https://github.com/ResidentMario/python-missing-data  
+NOW A BLOG POST: http://www.residentmar.io/2016/06/12/null-and-missing-data-python.html  
+Jupyter Notebook  
+https://github.com/statsmodels/statsmodels  
+Statsmodels: statistical modeling and econometrics in Python  
+Python  
+https://github.com/rasbt/mlxtend  
+A library of extension and helper modules for Python's data analysis and machine learning libraries.  
+Python  
+
+https://github.com/amueller/word_cloud  
+A little word cloud generator in Python   
+Python  
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
 Confidence intervals for scikit-learn forest algorithms  
@@ -123,7 +165,7 @@ Python
 https://github.com/tmadl/sklearn-random-bits-forest  
 Scikit-learn compatible wrapper of the Random Bits Forest program written by (Wang et al., 2016)  
 Python  
-### Recommender Systems & Matrix Factorization
+### Recommender Systems & Factorization
 https://github.com/Evfro/polara  
 Recommender system and evaluation framework for top-n recommendations tasks that respects polarity of feedbacks. Fast, flexible and easy to use. Written in python, boosted by scientific python stack.  
 Python  
@@ -133,6 +175,19 @@ Python
 https://github.com/Mendeley/mrec  
 A recommender systems development and evaluation package by Mendeley  
 Python  
+https://github.com/scikit-learn-contrib/polylearn  
+A library for factorization machines and polynomial networks for classification and regression in Python.  
+Python  
+https://github.com/coreylynch/pyFM  
+Factorization machines in python  
+Python  
+https://github.com/comadan/FM_FTRL  
+Hashed Factorization Machine with Follow The Regularized Leader for Kaggle Avazu Click-Through Rate Competition  
+Python  
+https://github.com/srendle/libfm  
+Library for factorization machines  
+C++  
+
 ### Deep Learning
 https://github.com/yanpanlau/DDPG-Keras-Torcs  
 Using Keras and Deep Deterministic Policy Gradient to play TORCS  
@@ -158,6 +213,8 @@ Python
 https://github.com/iassael/learning-to-communicate  
 Learning to Communicate with Deep Multi-Agent Reinforcement Learning  
 Lua  
+https://github.com/HFTrader/DeepLearningBook  
+MIT Deep Learning Book in PDF format   
 ### Gradient Boosting
 https://github.com/Microsoft/LightGBM  
 A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of Microsoft.  
@@ -185,6 +242,9 @@ Python
 https://github.com/cesium-ml/cesium  
 Machine Learning Time-Series Platform  
 Python  
+https://github.com/alexminnaar/time-series-classification-and-clustering  
+Time series classification and clustering code written in Python. Mostly based on the work of Dr. Eamonn Keogh at University of California Riverside  
+Jupyter Notebook  
 ### Bayesian
 https://github.com/AmazaspShumik/sklearn-bayes  
 Python package for Bayesian Machine Learning with scikit-learn API  
@@ -230,6 +290,17 @@ R
 https://github.com/johnmyleswhite/MLNotes  
 Very concise notes on machine learning and statistics.  
 R  
+https://github.com/savarin/pyconuk-introtutorial  
+practical introduction to pandas and scikit-learn via Kaggle problems  
+Jupyter Notebook  
+https://github.com/ResidentMario/watsongraph-tutorial  
+Tutorial materials for the watsongraph library.  
+Jupyter Notebook  
+https://github.com/ujjwalkarn/DataSciencePython  
+common data analysis and machine learning tasks using python  
+Python  
+https://github.com/caesar0301/awesome-public-datasets  
+An awesome list of high-quality open datasets in public domains (on-going).  
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
 Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!  
@@ -237,6 +308,8 @@ https://github.com/dennybritz/startupreadings
 Reading list for all things startup-related  
 https://github.com/jessicard/remote-jobs  
 A list of semi to fully remote-friendly companies in tech  
+https://github.com/lukasz-madon/awesome-remote-job  
+A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python  
 ### Deep Learning
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  
 Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!  
@@ -258,6 +331,8 @@ https://github.com/karpathy/paper-notes
 Random notes on papers, likely a short-term repo.  
 https://github.com/sbrugman/deep-learning-papers  
 Papers about deep learning ordered by task, date. Current state-of-the-art papers are labelled.  
+https://github.com/gokceneraslan/awesome-deepbio  
+A curated list of awesome deep learning applications in the field of computational biology  
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
 Reinforcement learning resources curated  
@@ -319,6 +394,9 @@ C++
 https://github.com/metachris/pdfx  
 Extract references (pdf, url, doi, arxiv) and metadata from a PDF; optionally download all referenced PDFs  
 Python  
+https://github.com/ResidentMario/watsongraph  
+Concept discovery and recommendation library built on top of the IBM Watson cognitive API.  
+Python  
 
 ## Cases, Examples, Competitions etc
 https://github.com/dennybritz/sentiment-analysis  
@@ -336,3 +414,11 @@ Python
 https://github.com/ericchiang/churn  
 Code accompanying blog post  
 Python  
+https://github.com/felixlaumon/kaggle-right-whale  
+2nd place solution to the Kaggle Right Whale challenge  
+Python  
+https://github.com/trinker/sentimentr  
+sentimentr is designed to quickly calculate text polarity sentiment at the sentence level and optionally aggregate by rows or grouping variable(s).  
+https://github.com/echen/link-prediction  
+Solution to Facebook's link prediction contest on Kaggle.  
+Scala  
