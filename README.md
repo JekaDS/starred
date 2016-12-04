@@ -158,6 +158,9 @@ Python
 https://github.com/smilli/py-corenlp  
 Python wrapper for Stanford CoreNLP  
 Python  
+https://github.com/derekgreene/topic-stability  
+Stability analysis for topic models  
+Python  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -460,6 +463,12 @@ Python
 https://github.com/claesenm/EnsembleSVM  
 A Library for Ensemble Learning Using Support Vector Machines  
 C++   
+https://github.com/keenon/lense  
+A framework for solving tasks with a real-time human-ML hybrid  
+Java  
+https://github.com/hmmlearn/hmmlearn  
+Hidden Markov Models in Python, with scikit-learn like API  
+Python  
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -651,10 +660,15 @@ Python
 https://github.com/tflearn/tflearn  
 Deep learning library featuring a higher-level API for TensorFlow.  
 Python  
-
 https://github.com/tiny-dnn/tiny-dnn  
 header only, dependency-free deep learning framework in C++11  
 C++  
+https://github.com/tensorflow/skflow  
+Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning  
+Python  
+https://github.com/Maratyszcza/NNPACK  
+Acceleration package for neural networks on multi-core CPUs  
+C  
 
 ### Gradient Boosting
 https://github.com/Microsoft/LightGBM  
@@ -764,7 +778,7 @@ C++
 
 ## Docs & Tutorials
 
-### Computer Science & AI
+### Computer Science, Math & AI
 https://github.com/Developer-Y/cs-video-courses  
 List of Computer Science courses with video lectures.  
 Papers from the computer science community to read and discuss.  
@@ -775,6 +789,9 @@ https://github.com/prakhar1989/awesome-courses
 📚 List of awesome university courses for learning Computer Science!  
 https://github.com/owainlewis/awesome-artificial-intelligence  
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers  
+https://github.com/rossant/awesome-math  
+A curated list of awesome mathematics resources  
+Python  
 
 ### Data Science & ML
 https://github.com/rushter/data-science-blogs  
@@ -882,6 +899,27 @@ JavaScript
 https://github.com/duvenaud/phd-thesis  
 Automatic Model Construction with Gaussian Processes  
 TeX  
+https://github.com/memo/ai-resources  
+Selection of resources to learn Artificial Intelligence / Machine Learning / Statistical Inference / Deep Learning / Reinforcement Learning  
+https://github.com/esokolov/ml-course-hse  
+Машинное обучение на ФКН ВШЭ  
+Jupyter Notebook  
+https://github.com/esokolov/ml-course-msu  
+Lecture notes and code for Machine Learning practical course on CMC MSU  
+Jupyter Notebook  
+https://github.com/vkantor/MIPT_Data_Mining_In_Action_2016  
+"Data Mining in Action Course", Moscow Institute of Physics and Technologies  
+Jupyter Notebook  
+https://github.com/elejke/ML_tasks  
+Machine Learning IITP RAS course 2015  
+https://github.com/glouppe/phd-thesis  
+Repository of the thesis "Understanding Random Forests"  
+TeX  
+https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie  
+📝 Подборка ресурсов по машинному обучению  
+https://github.com/Dyakonov/ml_hacks  
+Приёмы в машинном обучении  
+Jupyter Notebook   
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -894,6 +932,8 @@ https://github.com/lukasz-madon/awesome-remote-job
 A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 https://github.com/hugo53/awesome-RemoteWork  
 Resources for remote workers: approaches, hiring page, remote life and more.  
+https://github.com/charlesfeng/startup-school-notes  
+Startup school notes by Charles Feng  
 
 ### Deep Learning
 https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap  
@@ -932,6 +972,12 @@ https://github.com/joanbruna/stat212b
 Topics Course on Deep Learning UC Berkeley  
 https://github.com/daviddao/awesome-very-deep-learning  
 A curated list of papers and code about very deep neural networks (especially ResNets and DenseNets) 😎  
+https://github.com/lisa-lab/DeepLearningTutorials  
+Deep Learning Tutorial notes and code. See the wiki for more info.  
+Python  
+https://github.com/jatinshah/ufldl_tutorial  
+Stanford Unsupervised Feature Learning and Deep Learning Tutorial  
+Python  
 
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
@@ -986,6 +1032,14 @@ Jupyter Notebook
 https://github.com/bogatyy/cs224d  
 Code for Stanford CS224D: deep learning for natural language understanding  
 Python   
+https://github.com/andrewt3000/DL4NLP  
+Deep Learning for NLP resources  
+https://github.com/nyu-dl/NLP_DL_Lecture_Note  
+Natural Language Understanding with Distributed Representation  
+TeX  
+https://github.com/hal3/vwnlp  
+Solving NLP problems with Vowpal Wabbit: Tutorial and more  
+Jupyter Notebook  
 
 ### Misc
 https://github.com/sindresorhus/awesome  
@@ -1014,6 +1068,11 @@ Everything you need to kick ass on your coding interview
 https://github.com/space10-community/conversational-form  
 Turning web forms into conversations  
 HTML  
+https://github.com/cassidoo/interview  
+Everything you need to kick butt on your coding interview  
+https://github.com/MaximAbramchuck/awesome-interview-questions  
+:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! 🎓   
+
 
 ### C++, Python & SW Engineering
 https://github.com/Smerity/yolo-cpp  
@@ -1035,6 +1094,12 @@ Continually updated, interactive, test-driven Python coding interview challenges
 Python  
 https://github.com/quantifiedcode/python-anti-patterns  
 An open collection of Python anti-patterns and "worst practices", many of which can be checked automatically on QuantifiedCode  
+https://github.com/rigtorp/awesome-modern-cpp  
+A collection of resources on modern C++  
+HTML  
+https://github.com/Dyakonov/python_hacks  
+Различные приёмы при написании python-программ.  
+Jupyter Notebook  
 
 ## Misc Software
 https://github.com/owocki/pytrader  
@@ -1069,6 +1134,9 @@ Zipline, a Pythonic Algorithmic Trading Library
 Python  
 https://github.com/deependersingla/deep_trader  
 This project uses reinforcement learning on stock market and agent tries to learn trading. The goal is to check if the agent can learn to read tape. The project is dedicated to hero in life great Jesse Livermore.  
+Python  
+https://github.com/tbenthompson/cppimport  
+Import C++ files directly from Python!  
 Python  
 
 ## Cases, Examples, Competitions etc
@@ -1133,4 +1201,19 @@ RF + GBM + ARIMA/NN Hybrid ensemble for predicting 6-month returns for the 9 sec
 Python  
 https://github.com/harpribot/deep-summarization  
 Uses Recurrent Neural Network (LSTM/GRU/basic_RNN units) for summarization of amazon reviews  
+Python  
+https://github.com/Dyakonov/timeseries  
+временные ряды  
+Jupyter Notebook  
+https://github.com/Dyakonov/case_shmid  
+анализ кардиограмм  
+Jupyter Notebook  
+https://github.com/Dyakonov/case_sdsj  
+Решение задачи конкурса Сбербанка  
+Jupyter Notebook    
+https://github.com/Dyakonov/case_SmartRecruits  
+Определение эффективности менеджера  
+Jupyter Notebook  
+https://github.com/Cardal/Kaggle_AllenAIscience  
+My solution for the Kaggle "Allen AI science challenge"  
 Python  
