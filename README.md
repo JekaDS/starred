@@ -95,6 +95,24 @@ C++
 https://github.com/machinalis/quepy  
 A python framework to transform natural language questions to queries in a database query language.  
 Python  
+https://github.com/ceteri/pytextrank  
+A pure Python impl of TextRank for document summarization  
+Python  
+https://github.com/sloria/TextBlob  
+Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.  
+Python  
+https://github.com/Kyubyong/neural_tokenizer  
+Tokenize English sentences using neural networks.  
+Python  
+https://github.com/jaredks/tweetokenize  
+Tokenization and pre-processing for Twitter data used to train classifiers.  
+Python  
+https://github.com/jgc128/DefVectors  
+A tool for semantic relation extraction. The program finds pairs of semantically related words based on the text definitions coming from the Wikipedia articles (other texts may be also used). The extraction method implemented in this system is based on three similarity measures (cosine, gloss overlap, and Karaulov's measure) between texts and tw…  
+Python  
+https://github.com/commonsense/conceptnet5  
+Code for building ConceptNet from raw data.  
+Python  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -142,6 +160,14 @@ JavaScript
 https://github.com/tudarmstadt-lt/context-eval  
 Tools for Evaluation of Unsupervised Word Sense Disambiguation Systems  
 Jupyter Notebook  
+https://github.com/cgevans/scikits-bootstrap  
+Bootstrap Scikit for bootstrap confidence interval estimation.  
+Python  
+https://github.com/beamandrew/medical-data  
+Medical Data for Machine Learning  
+https://github.com/PyTables/PyTables  
+A Python package to manage extremely large amounts of data  
+Python  
 
 ## ML Software
 
@@ -273,6 +299,15 @@ C++
 https://github.com/machinalis/featureforge  
 A set of tools for creating and testing machine learning features, with a scikit-learn compatible API  
 Python  
+https://github.com/Sotera/correlation-approximation  
+Spark implementation of the Google Correlate algorithm to quickly find highly correlated vectors in huge datasets  
+Scala  
+https://github.com/larsmans/seqlearn  
+Sequence learning toolkit for Python  
+Python  
+https://github.com/MLWave/Online-Random-Bit-Regression-FTRL  
+Online Random Bit Regression with FTRL-Proximal in Python  
+Python  
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -327,6 +362,30 @@ LIBMF is a library for large-scale sparse matrix factorization.
 C++  
 https://github.com/manasRK/word2vec-recommender  
 Recommendation engine based on contextual word embeddings  
+Python  
+https://github.com/recsyschallenge/2016  
+RecSys Challenge 2016: job recommendations  
+TeX  
+https://github.com/mattdennewitz/playlist-to-vec  
+An artist recommendation engine, from feeding Spotify playlists through word2vec  
+Python  
+https://github.com/ibayer/fastFM  
+fastFM: A Library for Factorization Machines  
+Python  
+https://github.com/benfred/implicit  
+Fast Python Collaborative Filtering for Implicit Datasets  
+Python  
+https://github.com/quora/qmf  
+A fast and scalable C++ library for implicit-feedback matrix factorization models  
+C++   
+https://github.com/MrChrisJohnson/implicit-mf  
+Implicit matrix factorization as outlined in http://yifanhu.net/PUB/cf.pdf.  
+Python  
+https://github.com/songgc/TF-recomm  
+Tensorflow-based Recommendation systems  
+Python  
+https://github.com/tobegit3hub/deep_recommend_system  
+Deep learning recommend system with TensorFlow  
 Python  
 
 ### Deep Learning
@@ -445,6 +504,8 @@ Papers from the computer science community to read and discuss.
 https://github.com/papers-we-love/papers-we-love  
 https://github.com/AI-ON/ai-on.org  
 AI•ON projects repository and website source.  
+https://github.com/prakhar1989/awesome-courses  
+📚 List of awesome university courses for learning Computer Science!  
 
 ### Data Science & ML
 https://github.com/rushter/data-science-blogs  
@@ -518,6 +579,12 @@ The main repo for Hack University's Summer '16 Agile Machine Learning class
 Python  
 https://github.com/open-source-society/data-science  
 📊 Path to a free self-taught education in Data Science!  
+https://github.com/gkamradt/Lessons-Learned-Data-Science-Interviews  
+Lessons learned the hard way through over 30+ data science interviews  
+https://github.com/grahamjenson/list_of_recommender_systems  
+A List of Recommender Systems and Resources  
+https://github.com/jvns/pandas-cookbook  
+Recipes for using Python's pandas library  
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -564,6 +631,8 @@ https://github.com/MaxwellRebo/awesome-2vec
 Curated list of 2vec-type embedding models   
 https://github.com/terryum/awesome-deep-learning-papers   
 Awesome Deep Learning Papers  
+https://github.com/joanbruna/stat212b  
+Topics Course on Deep Learning UC Berkeley  
 
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
@@ -623,6 +692,8 @@ A list of awesome Robotics resources
 https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition  
 The official online compendium for Mining the Social Web, 2nd Edition (O'Reilly, 2013)  
 Ruby  
+https://github.com/matiassingers/awesome-readme  
+A curated list of awesome READMEs  
 
 ### C++, Python & SW Engineering
 https://github.com/Smerity/yolo-cpp  
@@ -639,6 +710,9 @@ An educational library of algorithms in Python
 Python  
 https://github.com/fffaraz/awesome-cpp  
 A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.  
+https://github.com/donnemartin/interactive-coding-challenges  
+Continually updated, interactive, test-driven Python coding interview challenges (algorithms and data structures).  
+Python  
 
 ## Misc Software
 https://github.com/owocki/pytrader  
@@ -664,6 +738,12 @@ https://github.com/p-e-w/maybe
 Python  
 https://github.com/minimaxir/facebook-page-post-scraper  
 Data scraper for Facebook Pages, and also code accompanying the blog post How to Scrape Data From Facebook Page Posts for Statistical Analysis  
+Python  
+https://github.com/mementum/backtrader  
+Python Backtesting library for trading strategies  
+Python  
+https://github.com/quantopian/zipline  
+Zipline, a Pythonic Algorithmic Trading Library  
 Python  
 
 ## Cases, Examples, Competitions etc
@@ -699,4 +779,6 @@ Jupyter Notebook
 https://github.com/gsingers/rtfmbot  
 Because we're all tired of answering questions when people should clearly RTFM.  
 Python  
-
+https://github.com/ceteri/ChicagoCrime  
+predictive modeling for crime rates in Chicago wards  
+R  
