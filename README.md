@@ -178,6 +178,9 @@ Python
 https://github.com/seatgeek/fuzzywuzzy  
 Fuzzy String Matching in Python  
 Python   
+https://github.com/bdhingra/ga-reader  
+Gated Attention Reader for Text Comprehension  
+Python  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
