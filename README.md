@@ -168,6 +168,12 @@ Medical Data for Machine Learning
 https://github.com/PyTables/PyTables  
 A Python package to manage extremely large amounts of data  
 Python  
+https://github.com/nok/sklearn-porter  
+Transpile trained scikit-learn models to C, Java, JavaScript and others.  
+Python  
+https://github.com/airbnb/knowledge-repo  
+A next-generation curated knowledge sharing platform for data scientists and other technical professions.  
+Python  
 
 ## ML Software
 
@@ -308,6 +314,27 @@ Python
 https://github.com/MLWave/Online-Random-Bit-Regression-FTRL  
 Online Random Bit Regression with FTRL-Proximal in Python  
 Python  
+https://github.com/btracey/stackmc  
+Repository for doing Stacked Monte Carlo on datasets  
+Go  
+https://github.com/vecxoz/vecstack  
+Python package for stacking (machine learning technique)  
+Python  
+https://github.com/gatapia/py_ml_utils  
+Some small utility modules to help with pandas, numpy and sklearn usage in other projects  
+Python  
+https://github.com/bingzhengwei/ftrl_proximal_lr  
+Multithreaded Asynchronous FTRL Proximal Implementation  
+C++  
+https://github.com/rhiever/active-categorical-classifier  
+A tool that evolves small brains capable of scanning and classifying an image.  
+Jupyter Notebook  
+https://github.com/airbnb/aerosolve  
+A machine learning package built for humans.  
+Java  
+https://github.com/jundongl/scikit-feature  
+oepn-source feature selection repository in python (DMML Lab@ASU)  
+Python   
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -327,6 +354,12 @@ Scikit-learn compatible wrapper of the Random Bits Forest program written by (Wa
 Python  
 https://github.com/fukatani/rgf_python  
 Python Wrapper of Regularized Greedy Forest.  
+Python  
+https://github.com/MLWave/RGF-sklearn  
+Scikit-learn API toy wrapper for Regularized Greedy Forests  
+Python  
+https://github.com/MLWave/extremely-simple-one-shot-learning  
+Extremely simple one-shot learning in Python  
 Python  
 
 ### Recommender Systems & Factorization
@@ -436,6 +469,13 @@ Python
 https://github.com/seomoz/word2gauss  
 Gaussian word embeddings  
 Python  
+https://github.com/tflearn/tflearn  
+Deep learning library featuring a higher-level API for TensorFlow.  
+Python  
+
+https://github.com/tiny-dnn/tiny-dnn  
+header only, dependency-free deep learning framework in C++11  
+C++  
 
 ### Gradient Boosting
 https://github.com/Microsoft/LightGBM  
@@ -456,6 +496,9 @@ C++
 https://github.com/limexp/xgbfir  
 XGBoost Feature Interactions Reshaped  
 Python  
+https://github.com/google/deepboost  
+Deep Boosting  
+C++  
 
 ### Dimensionality Reduction
 https://github.com/DmitryUlyanov/Multicore-TSNE  
@@ -472,6 +515,9 @@ Python
 https://github.com/alexminnaar/time-series-classification-and-clustering  
 Time series classification and clustering code written in Python. Mostly based on the work of Dr. Eamonn Keogh at University of California Riverside  
 Jupyter Notebook  
+https://github.com/bytefish/timeseries  
+Dynamic Time Warping (DTW) in C++  
+C++  
 
 ### Bayesian
 https://github.com/AmazaspShumik/sklearn-bayes  
@@ -494,6 +540,15 @@ Python
 https://github.com/altair-viz/altair  
 Declarative statistical visualization library for Python  
 Jupyter Notebook  
+https://github.com/MLWave/kepler-mapper  
+KeplerMapper is a Python class for visualization of high-dimensional data and 3-D point cloud data.  
+Python  
+https://github.com/airbnb/superset  
+Superset is a data exploration platform designed to be visual, intuitive, and interactive  
+Python  
+https://github.com/lferry007/LargeVis  
+visualize large-scale and high-dimensional data  
+C++  
 
 ## Docs & Tutorials
 
@@ -585,6 +640,15 @@ https://github.com/grahamjenson/list_of_recommender_systems
 A List of Recommender Systems and Resources  
 https://github.com/jvns/pandas-cookbook  
 Recipes for using Python's pandas library  
+https://github.com/diefimov/MTH594_MachineLearning  
+The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah)  
+Jupyter Notebook  
+https://github.com/ageron/handson-ml  
+A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.  
+Jupyter Notebook  
+https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  
+Repository of teaching materials, code, and data for my data analysis and machine learning projects.  
+Jupyter Notebook  
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -633,6 +697,8 @@ https://github.com/terryum/awesome-deep-learning-papers
 Awesome Deep Learning Papers  
 https://github.com/joanbruna/stat212b  
 Topics Course on Deep Learning UC Berkeley  
+https://github.com/daviddao/awesome-very-deep-learning  
+A curated list of papers and code about very deep neural networks (especially ResNets and DenseNets) 😎  
 
 ### Reinforcement Learning
 https://github.com/aikorea/awesome-rl  
@@ -694,6 +760,10 @@ The official online compendium for Mining the Social Web, 2nd Edition (O'Reilly,
 Ruby  
 https://github.com/matiassingers/awesome-readme  
 A curated list of awesome READMEs  
+https://github.com/wilsonfreitas/awesome-quant  
+A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)  
+https://github.com/andreis/interview  
+Everything you need to kick ass on your coding interview  
 
 ### C++, Python & SW Engineering
 https://github.com/Smerity/yolo-cpp  
@@ -713,6 +783,8 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 https://github.com/donnemartin/interactive-coding-challenges  
 Continually updated, interactive, test-driven Python coding interview challenges (algorithms and data structures).  
 Python  
+https://github.com/quantifiedcode/python-anti-patterns  
+An open collection of Python anti-patterns and "worst practices", many of which can be checked automatically on QuantifiedCode  
 
 ## Misc Software
 https://github.com/owocki/pytrader  
@@ -744,6 +816,9 @@ Python Backtesting library for trading strategies
 Python  
 https://github.com/quantopian/zipline  
 Zipline, a Pythonic Algorithmic Trading Library  
+Python  
+https://github.com/deependersingla/deep_trader  
+This project uses reinforcement learning on stock market and agent tries to learn trading. The goal is to check if the agent can learn to read tape. The project is dedicated to hero in life great Jesse Livermore.  
 Python  
 
 ## Cases, Examples, Competitions etc
@@ -782,3 +857,15 @@ Python
 https://github.com/ceteri/ChicagoCrime  
 predictive modeling for crime rates in Chicago wards  
 R  
+https://github.com/kaz-Anova/ensemble_amazon  
+Code to share different ensemble techniques with focus on meta-stacking , using data from Amazon.com - Employee Access Challenge kaggle competition  
+Python  
+https://github.com/MLWave/Kaggle-Ensemble-Guide  
+Code for the Kaggle Ensembling Guide Article on MLWave  
+Python  
+https://github.com/diefimov/west_nile_virus_2015  
+the 2nd place solution for West Nile Virus Prediction challenge on Kaggle  
+C++  
+https://github.com/Far0n/kaggletils  
+kaggletils  
+Python  
