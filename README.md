@@ -113,6 +113,30 @@ Python
 https://github.com/commonsense/conceptnet5  
 Code for building ConceptNet from raw data.  
 Python  
+https://github.com/mortehu/text-classifier  
+Creates models to classify documents into categories  
+Shell  
+https://github.com/brmson/yodaqa  
+A Question Answering system built on top of the Apache UIMA framework.  
+Java  
+https://github.com/bdhingra/tweet2vec  
+Twitter hashtag prediction  
+Python  
+https://github.com/rlebret/hpca  
+C++ implementation of the Hellinger PCA for computing word embeddings.  
+C  
+https://github.com/aboSamoor/polyglot  
+Multilingual text (NLP) processing toolkit  
+Python  
+https://github.com/dbpedia/fact-extractor  
+Fact Extraction from Wikipedia Text  
+Python  
+https://github.com/anttttti/Wordbatch  
+Parallel text feature extraction for machine learning  
+Python  
+https://github.com/nliu86/word2vec-doc2vec  
+An extension of word2vec to efficiently represent new text as vectors. New text can be query, sentence and paragraph.  
+C  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -174,6 +198,15 @@ Python
 https://github.com/airbnb/knowledge-repo  
 A next-generation curated knowledge sharing platform for data scientists and other technical professions.  
 Python  
+https://github.com/benhamner/Metrics  
+Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave  
+Python  
+https://github.com/trevorstephens/gplearn  
+Genetic Programming in Python, with a scikit-learn inspired API  
+Python  
+https://github.com/kaneplusplus/bigmemory  
+Create, store, access, and manipulate massive matrices. R package.  
+C++  
 
 ## ML Software
 
@@ -216,6 +249,17 @@ Use evolutionary algorithms instead of gridsearch in scikit-learn
 Python  
 https://github.com/rhiever/tpot  
 A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.  
+Python  
+https://github.com/mpearmain/BayesBoost  
+Bayesian Optimization using xgboost and sklearn API  
+https://github.com/claesenm/optunity  
+optimization routines for hyperparameter tuning  
+Jupyter Notebook  
+https://github.com/msmbuilder/osprey  
+Hyperparameter optimization for machine learning pipelines  
+Python  
+https://github.com/hyperopt/hyperopt-sklearn  
+Hyper-parameter optimization for sklearn  
 Python  
 
 ### Misc
@@ -335,6 +379,48 @@ Java
 https://github.com/jundongl/scikit-feature  
 oepn-source feature selection repository in python (DMML Lab@ASU)  
 Python   
+https://github.com/JamesRitchie/scikit-rvm  
+Relevance Vector Machine implementation using the scikit-learn API.  
+Python  
+https://github.com/dclambert/pyensemble  
+An implementation of Caruana et al's Ensemble Selection algorithm in Python, based on scikit-learn  
+Python   
+https://github.com/danielhomola/boruta_py  
+Python implementations of the Boruta all-relevant feature selection method.  
+Python  
+https://github.com/twitter/AnomalyDetection  
+Anomaly Detection with R  
+R  
+https://github.com/all-umass/metric-learn  
+Metric learning algorithms in Python  
+Python  
+https://github.com/jmschrei/pomegranate  
+Fast, flexible and easy to use probabilistic modelling in Python.  
+Jupyter Notebook  
+https://github.com/rth/pysofia  
+bindings for the sofia-ml machine learning library  
+C++  
+https://github.com/johnmyleswhite/BanditsBook  
+Code for my book on Multi-Armed Bandit Algorithms  
+R  
+https://github.com/nicodv/kmodes  
+Python implementations of the k-modes and k-prototypes clustering algorithms, for clustering categorical data  
+Python  
+https://github.com/qminer/qminer  
+Analytic platform for real-time large-scale streams containing structured and unstructured data.  
+C++  
+https://github.com/bashtage/arch  
+ARCH models in Python  
+Python  
+https://github.com/gallantlab/pyrcca  
+Regularized kernel canonical correlation analysis in Python  
+Jupyter Notebook  
+https://github.com/donlnz/nonconformist  
+Python implementation of the conformal prediction framework.  
+Python  
+https://github.com/ajbc/spf  
+Social Poisson Factorization  
+C++   
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -361,6 +447,27 @@ Python
 https://github.com/MLWave/extremely-simple-one-shot-learning  
 Extremely simple one-shot learning in Python  
 Python  
+https://github.com/takuti/stream-feature-selection  
+Implementation of unsupervised feature selection algorithm proposed by [Huang, et al. 2015]  
+Jupyter Notebook  
+https://github.com/balajiln/mondrianforest  
+Code for Mondrian Forests (for classification and regression)  
+Python  
+https://github.com/mhahsler/recommenderlab  
+recommenderlab - Lab for Developing and Testing Recommender Algorithms - R package  
+R  
+https://github.com/imbs-hl/ranger  
+A Fast Implementation of Random Forests  
+C++  
+https://github.com/aloysius-lim/bigrf  
+Random forests for R for large data sets, optimized with parallel tree-growing and disk-based memory  
+R  
+https://github.com/ajtulloch/sklearn-compiledtrees  
+Compiled Decision Trees for scikit-learn  
+Python  
+https://github.com/ttomita/RandomerForest  
+Discriminant Projection Forest results, datasets, etc.  
+Matlab  
 
 ### Recommender Systems & Factorization
 https://github.com/Evfro/polara  
@@ -420,6 +527,15 @@ Python
 https://github.com/tobegit3hub/deep_recommend_system  
 Deep learning recommend system with TensorFlow  
 Python  
+https://github.com/turi-code/python-libffm  
+A Python wrapper for the libffm library.  
+C++  
+https://github.com/sanealytics/recommenderlabrats  
+Some recommendation algorithms and research  
+R  
+https://github.com/yixuan/recosystem  
+Recommender System Using Parallel Matrix Factorization  
+C++  
 
 ### Deep Learning
 https://github.com/yanpanlau/DDPG-Keras-Torcs  
@@ -504,6 +620,12 @@ C++
 https://github.com/DmitryUlyanov/Multicore-TSNE  
 Parallel t-SNE implementation with Python and Torch wrappers.  
 C++  
+https://github.com/facebook/fbpca  
+Fast Randomized PCA/SVD  
+Python  
+https://github.com/zygmuntz/dimensionality-reduction-for-sparse-binary-data  
+convert a lot of zeros and ones to fewer real numbers  
+Python   
 
 ### Time Series
 https://github.com/blue-yonder/tsfresh  
@@ -518,6 +640,15 @@ Jupyter Notebook
 https://github.com/bytefish/timeseries  
 Dynamic Time Warping (DTW) in C++  
 C++  
+https://github.com/hildensia/bayesian_changepoint_detection  
+Methods to get the probability of a changepoint in a time series.  
+Jupyter Notebook   
+https://github.com/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping  
+Python implementation of KNN and DTW classification algorithm  
+Python  
+https://github.com/Netflix/atlas  
+In-memory dimensional time series database.  
+Scala  
 
 ### Bayesian
 https://github.com/AmazaspShumik/sklearn-bayes  
@@ -532,6 +663,9 @@ R
 https://github.com/pymc-devs/pymc3  
 Probabilistic Programming in Python. Uses Theano as a backend, supports NUTS and ADVI.  
 Python  
+https://github.com/dsteinberg/libcluster  
+An extensible C++ library of Hierarchical Bayesian clustering algorithms, such as Bayesian Gaussian mixture models, variational Dirichlet processes, Gaussian latent Dirichlet allocation and more.  
+C++  
 
 ### Visualization
 https://github.com/olgabot/prettyplotlib  
@@ -549,6 +683,9 @@ Python
 https://github.com/lferry007/LargeVis  
 visualize large-scale and high-dimensional data  
 C++  
+https://github.com/glumpy/glumpy  
+Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization  
+Python  
 
 ## Docs & Tutorials
 
@@ -561,6 +698,8 @@ https://github.com/AI-ON/ai-on.org
 AI•ON projects repository and website source.  
 https://github.com/prakhar1989/awesome-courses  
 📚 List of awesome university courses for learning Computer Science!  
+https://github.com/owainlewis/awesome-artificial-intelligence  
+A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers  
 
 ### Data Science & ML
 https://github.com/rushter/data-science-blogs  
@@ -649,6 +788,22 @@ Jupyter Notebook
 https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects  
 Repository of teaching materials, code, and data for my data analysis and machine learning projects.  
 Jupyter Notebook  
+https://github.com/amitkaps/hackermath  
+Introduction to Statistics and Basics of Mathematics for Data Science - The Hacker's Way  
+Jupyter Notebook  
+https://github.com/rasbt/python-machine-learning-book  
+The "Python Machine Learning" book code repository and info resource  
+Jupyter Notebook  
+https://github.com/rlabbe/statistical-rethinking  
+Notebooks containing R code from Richard McElreath's Statistical Rethinking  
+Jupyter Notebook  
+https://github.com/fasouto/awesome-dataviz  
+📈 A curated list of awesome data visualization libraries and resources.  
+https://github.com/wnzhang/rtb-papers  
+A collection of research and survey papers of real-time bidding (RTB) based display advertising techniques.  
+https://github.com/oreillymedia/t-SNE-tutorial  
+A tutorial on the t-SNE learning algorithm  
+JavaScript  
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -739,6 +894,20 @@ Python
 https://github.com/tudarmstadt-lt/courses  
 Source code of projects related to courses taught by LT  
 JavaScript  
+https://github.com/evanmiltenburg/python-for-text-analysis  
+If you want to use Python for text analysis, this course is for you!  
+Jupyter Notebook  
+https://github.com/rouseguy/DeepLearningNLP_Py  
+Introduction to Deep Learning for Natural Language Processing  
+Jupyter Notebook  
+https://github.com/shashankg7/Deep-Learning-for-NLP-Resources  
+List of resources to get started with Deep Learning for NLP.  
+https://github.com/linanqiu/word2vec-sentiments  
+Tutorial for Sentiment Analysis using Doc2Vec in gensim (or "getting 87% accuracy in sentiment analysis in under 100 lines of code")  
+Jupyter Notebook  
+https://github.com/bogatyy/cs224d  
+Code for Stanford CS224D: deep learning for natural language understanding  
+Python   
 
 ### Misc
 https://github.com/sindresorhus/awesome  
@@ -869,3 +1038,9 @@ C++
 https://github.com/Far0n/kaggletils  
 kaggletils  
 Python  
+https://github.com/entron/entity-embedding-rossmann  
+This is the code used in the paper "Entity Embeddings of Categorical Variables".  
+Jupyter Notebook  
+https://github.com/grfiv/healthcare_twitter_analysis  
+Healthcare Twitter Analysis  
+Jupyter Notebook  
