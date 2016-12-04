@@ -161,6 +161,21 @@ Python
 https://github.com/derekgreene/topic-stability  
 Stability analysis for topic models  
 Python  
+https://github.com/yandex/faster-rnnlm  
+Faster Recurrent Neural Network Language Modeling Toolkit with Noise Contrastive Estimation and Hierarchical Softmax  
+C++  
+https://github.com/commonsense/conceptnet-numberbatch  
+This is the data from an ensemble that combines ConceptNet, word2vec, and GloVe using a variation on retrofitting.  
+Python  
+https://github.com/ianozsvald/learning_text_transformer  
+Search 'from' and 'to' strings to learn a text cleaning mapping  
+Python  
+https://github.com/machinalis/iepy  
+Information Extraction in Python  
+Python  
+https://github.com/seatgeek/fuzzywuzzy  
+Fuzzy String Matching in Python  
+Python   
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -234,6 +249,15 @@ C++
 https://github.com/travisbrady/py-soft-impute  
 Python implementation of softImpute  
 Python  
+https://github.com/wireservice/proof  
+A Python library for creating fast, repeatable and self-documenting data analysis pipelines.  
+Python  
+https://github.com/DEAP/deap  
+Distributed Evolutionary Algorithms in Python  
+Python  
+https://github.com/yandex/ClickHouse  
+ClickHouse is a free analytic DBMS for big data.  
+C++  
 
 ## ML Software
 
@@ -287,6 +311,12 @@ Hyperparameter optimization for machine learning pipelines
 Python  
 https://github.com/hyperopt/hyperopt-sklearn  
 Hyper-parameter optimization for sklearn  
+Python  
+https://github.com/fmfn/BayesianOptimization  
+A Python implementation of global optimization with gaussian processes.  
+Python  
+https://github.com/automl/HPOlib  
+HPOlib is a hyperparameter optimization library. It provides a common interface to three state of the art hyperparameter optimization packages: SMAC, spearmint and hyperopt  
 Python  
 
 ### Misc
@@ -469,6 +499,24 @@ Java
 https://github.com/hmmlearn/hmmlearn  
 Hidden Markov Models in Python, with scikit-learn like API  
 Python  
+https://github.com/linkedin/FeatureFu  
+Library and tools for advanced feature engineering  
+Java  
+https://github.com/lensacom/sparkit-learn  
+PySpark + Scikit-learn = Sparkit-learn  
+Python  
+https://github.com/yandex/rep  
+Machine Learning toolbox for Humans  
+Jupyter Notebook  
+https://github.com/arogozhnikov/hep_ml  
+Machine learning algorithms for high energy physics.  
+Jupyter Notebook   
+https://github.com/mayou36/raredecay  
+Machine Learning tools on top of REP  
+Jupyter Notebook  
+https://github.com/ibab/python-mle  
+A Python package for performing Maximum Likelihood Estimates  
+Python  
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -608,6 +656,9 @@ Python
 https://github.com/markusweimer/cofirank  
 CoFiRank -- Collaborative Filtering for Ranking  
 C++  
+https://github.com/Evfro/fifty-shades  
+Source code to support ACM RecSys'16 paper "Fifty Shades of Ratings: How to Benefit from a Negative Feedback in Top-N Recommendations Tasks"  
+Jupyter Notebook  
 
 ### Deep Learning
 https://github.com/yanpanlau/DDPG-Keras-Torcs  
@@ -709,6 +760,12 @@ Python
 https://github.com/lisitsyn/tapkee  
 A flexible and efficient С++ template library for dimension reduction  
 C++  
+https://github.com/esafak/mca  
+Multiple correspondence analysis  
+Python  
+https://github.com/allentran/pca-magic  
+PCA that iteratively replaces missing data  
+Python  
 
 ### Time Series
 https://github.com/blue-yonder/tsfresh  
@@ -775,6 +832,9 @@ Python
 https://github.com/cornelltech/snack  
 Stochastic Neighbor and Crowd Kernel (SNaCK) embeddings: Quick and dirty visualization of large-scale datasets via concept embeddings  
 C++  
+https://github.com/vispy/vispy  
+High-performance interactive 2D/3D data visualization library  
+Python  
 
 ## Docs & Tutorials
 
@@ -920,6 +980,22 @@ https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie
 https://github.com/Dyakonov/ml_hacks  
 Приёмы в машинном обучении  
 Jupyter Notebook   
+https://github.com/joelgrus/data-science-from-scratch  
+code for Data Science From Scratch book  
+Python  
+https://github.com/yandexdataschool/REP_tutorial  
+Examples of using yandex/rep framework  
+Jupyter Notebook  
+https://github.com/arogozhnikov/cats  
+Test of algorithms on highly-categorical data  
+Jupyter Notebook  
+https://github.com/rougier/numpy-100  
+100 numpy exercises (100% complete)  
+Jupyter Notebook  
+https://github.com/svaksha/pythonidae  
+Curated decibans of scientific programming resources in Python.  
+https://github.com/onurakpolat/awesome-bigdata  
+A curated list of awesome big data frameworks, ressources and other awesomeness.   
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -1138,6 +1214,9 @@ Python
 https://github.com/tbenthompson/cppimport  
 Import C++ files directly from Python!  
 Python  
+https://github.com/yahoo/mdbm  
+MDBM a very fast memory-mapped key/value store.  
+C++  
 
 ## Cases, Examples, Competitions etc
 https://github.com/dennybritz/sentiment-analysis  
@@ -1217,3 +1296,12 @@ Jupyter Notebook
 https://github.com/Cardal/Kaggle_AllenAIscience  
 My solution for the Kaggle "Allen AI science challenge"  
 Python  
+https://github.com/Cardal/Kaggle_WestNileVirus  
+Winning solution for the Kaggle "West Nile Virus" competition (2015)  
+Python  
+https://github.com/gdb/kaggle  
+A collection of Kaggle solutions. Not very polished.  
+Python  
+https://github.com/chrischris292/ShowMeTheMoney  
+A Sentiment Analysis Tool on Financial Data  
+JavaScript  
