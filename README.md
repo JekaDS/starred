@@ -62,6 +62,39 @@ Python
 https://github.com/orenmel/context2vec  
 context2vec: Learning Generic Context Embedding with Bidirectional LSTM  
 Python  
+https://github.com/intel-analytics/TopicModeling  
+Topic Modeling on Apache Spark  
+Scala  
+https://github.com/intel-analytics/InformationExtraction  
+Information extraction  
+Java   
+https://github.com/tudarmstadt-lt/sensegram  
+Making sense embedding out of word embeddings  
+Jupyter Notebook  
+https://github.com/dkpro/dkpro-core-examples  
+Ready-to-use examples of dkpro-core components and pipelines.  
+Java  
+https://github.com/tudarmstadt-lt/JoSimText  
+A system for word sense induction and disambiguation based on JoBimText approach  
+Scala  
+https://github.com/tudarmstadt-lt/lefex  
+Feature extraction for the JoSimText project: https://github.com/tudarmstadt-lt/JoSimText  
+Java  
+https://github.com/policecar/deepDB  
+Neural tensor network for KB completion ( http://papers.nips.cc/paper/by-source-2013-504 )  
+Matlab  
+https://github.com/bigartm/bigartm  
+Fast topic modeling platform  
+C++  
+https://github.com/ziyan/spider  
+Web Content Extraction Through Machine Learning  
+TeX  
+https://github.com/mit-nlp/MITIE  
+MITIE: library and tools for information extraction  
+C++  
+https://github.com/machinalis/quepy  
+A python framework to transform natural language questions to queries in a database query language.  
+Python  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -106,6 +139,9 @@ Python
 https://github.com/marcotcr/lime  
 Lime: Explaining the predictions of any machine learning classifier  
 JavaScript  
+https://github.com/tudarmstadt-lt/context-eval  
+Tools for Evaluation of Unsupervised Word Sense Disambiguation Systems  
+Jupyter Notebook  
 
 ## ML Software
 
@@ -145,6 +181,9 @@ Auto-tuning Data Science Pipelines
 HTML  
 https://github.com/rsteca/sklearn-deap  
 Use evolutionary algorithms instead of gridsearch in scikit-learn  
+Python  
+https://github.com/rhiever/tpot  
+A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming.  
 Python  
 
 ### Misc
@@ -224,6 +263,15 @@ CostSensitiveClassification Library in Python
 Python  
 https://github.com/christophM/rulefit  
 Python implementation of the rulefit algorithm  
+Python  
+https://github.com/NARKOZ/hacker-scripts  
+Hacker Scripts  
+JavaScript  
+https://github.com/mlpack/mlpack  
+mlpack: a scalable C++ machine learning library  
+C++  
+https://github.com/machinalis/featureforge  
+A set of tools for creating and testing machine learning features, with a scikit-learn compatible API  
 Python  
 
 ### Random Forest
@@ -346,6 +394,9 @@ Python
 https://github.com/dmlc/xgboost  
 Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow  
 C++  
+https://github.com/limexp/xgbfir  
+XGBoost Feature Interactions Reshaped  
+Python  
 
 ### Dimensionality Reduction
 https://github.com/DmitryUlyanov/Multicore-TSNE  
@@ -373,6 +424,9 @@ Python
 https://github.com/davpinto/regularizedgb  
 Regularized Gaussian Bayes Classifier (RGB) using the Ledoit-Wolf shrinkage estimator of covariance matrix  
 R  
+https://github.com/pymc-devs/pymc3  
+Probabilistic Programming in Python. Uses Theano as a backend, supports NUTS and ADVI.  
+Python  
 
 ### Visualization
 https://github.com/olgabot/prettyplotlib  
@@ -384,11 +438,13 @@ Jupyter Notebook
 
 ## Docs & Tutorials
 
-### Computer Science
+### Computer Science & AI
 https://github.com/Developer-Y/cs-video-courses  
 List of Computer Science courses with video lectures.  
 Papers from the computer science community to read and discuss.  
 https://github.com/papers-we-love/papers-we-love  
+https://github.com/AI-ON/ai-on.org  
+AI•ON projects repository and website source.  
 
 ### Data Science & ML
 https://github.com/rushter/data-science-blogs  
@@ -457,6 +513,11 @@ Jupyter Notebook
 https://github.com/frnsys/ai_notes  
 machine learning/artificial intelligence notes  
 Jupyter Notebook  
+https://github.com/TheGrimmScientist/AgileMachineLearning  
+The main repo for Hack University's Summer '16 Agile Machine Learning class  
+Python  
+https://github.com/open-source-society/data-science  
+📊 Path to a free self-taught education in Data Science!  
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -534,6 +595,15 @@ Python
 https://github.com/unnati-xyz/intro-to-deep-learning-for-nlp  
 The repository contains code walkthroughs which introduces Deep Learning in the field of Natural Language Processing.  
 Jupyter Notebook  
+https://github.com/totalgood/pycon-2016-nlp-tutorial  
+PyCon 2016 Tutorial Session -- Making Connections with Natural Language Processing  
+Jupyter Notebook  
+https://github.com/totalgood/nlpia  
+NLP in action  
+Python  
+https://github.com/tudarmstadt-lt/courses  
+Source code of projects related to courses taught by LT  
+JavaScript  
 
 ### Misc
 https://github.com/sindresorhus/awesome  
@@ -550,6 +620,9 @@ https://github.com/bmtgoncalves/Mining-Georeferenced-Data
 A hands on guide on using Python to collect, analyse and mine geo-referenced data from location based services (e.g. Foursquare, Twitter) and the Sharing Economy (Uber, Airbnb etc.).  
 https://github.com/Kiloreux/awesome-robotics  
 A list of awesome Robotics resources  
+https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition  
+The official online compendium for Mining the Social Web, 2nd Edition (O'Reilly, 2013)  
+Ruby  
 
 ### C++, Python & SW Engineering
 https://github.com/Smerity/yolo-cpp  
@@ -561,6 +634,11 @@ Python
 https://github.com/vinta/awesome-python  
 A curated list of awesome Python frameworks, libraries, software and resources  
 Python  
+https://github.com/nryoung/algorithms  
+An educational library of algorithms in Python  
+Python  
+https://github.com/fffaraz/awesome-cpp  
+A curated list of awesome C/C++ frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.  
 
 ## Misc Software
 https://github.com/owocki/pytrader  
@@ -583,6 +661,9 @@ Concept discovery and recommendation library built on top of the IBM Watson cogn
 Python  
 https://github.com/p-e-w/maybe  
 📂 🐇 🎩 See what a program does before deciding whether you really want it to happen.  
+Python  
+https://github.com/minimaxir/facebook-page-post-scraper  
+Data scraper for Facebook Pages, and also code accompanying the blog post How to Scrape Data From Facebook Page Posts for Statistical Analysis  
 Python  
 
 ## Cases, Examples, Competitions etc
@@ -612,3 +693,10 @@ Scala
 https://github.com/pratik008/HealthCare_Twitter_Analysis  
 Healthcare Twitter Analysis Initial Files  
 Python  
+https://github.com/RaRe-Technologies/movie-plots-by-genre  
+Movie plots by genre tutorial at PyData Berlin 2016  
+Jupyter Notebook  
+https://github.com/gsingers/rtfmbot  
+Because we're all tired of answering questions when people should clearly RTFM.  
+Python  
+
