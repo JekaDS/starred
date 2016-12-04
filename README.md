@@ -1,4 +1,4 @@
-[Link-name2](## Data Science Software)
+[Link-name2](#data-science-software)
 
 ## NLP & IR Software
 https://github.com/explosion/spaCy  
