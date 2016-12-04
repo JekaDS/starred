@@ -137,6 +137,27 @@ Python
 https://github.com/nliu86/word2vec-doc2vec  
 An extension of word2vec to efficiently represent new text as vectors. New text can be query, sentence and paragraph.  
 C  
+https://github.com/arongdari/python-topic-model  
+Implementation of various topic models  
+Jupyter Notebook  
+https://github.com/cjf00000/ScaCTM  
+Scalable inference for Correlated Topic Models  
+C++  
+https://github.com/JonathanRaiman/rsm  
+Topic analysis using RSM or PVDM.  
+Python  
+https://github.com/Conchylicultor/DeepQA  
+My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot  
+Python  
+https://github.com/kootenpv/TwitterQA  
+My tensorflow implementation of "A neural conversational model", a Deep learning based chatbot  
+Python  
+https://github.com/LucasEstevam/CNNSummarizer  
+Extractive Multi-Document Summarization using Convolutional Neural Networks  
+Python   
+https://github.com/smilli/py-corenlp  
+Python wrapper for Stanford CoreNLP  
+Python  
 
 ## Data Science Software
 https://github.com/joke2k/faker  
@@ -207,6 +228,9 @@ Python
 https://github.com/kaneplusplus/bigmemory  
 Create, store, access, and manipulate massive matrices. R package.  
 C++  
+https://github.com/travisbrady/py-soft-impute  
+Python implementation of softImpute  
+Python  
 
 ## ML Software
 
@@ -421,6 +445,21 @@ Python
 https://github.com/ajbc/spf  
 Social Poisson Factorization  
 C++   
+https://github.com/davmre/treegp  
+Gaussian Process Regression for Python/Numpy  
+Python  
+https://github.com/alkant/cpm  
+Convex Polytope Machine  
+C++  
+https://github.com/mmoussallam/bird  
+Pure Python implementation of the BIRD algorithm for (structured)-sparsity based denoising of multichannel array  
+Python   
+https://github.com/dmarx/Topological-Anomaly-Detection  
+Topological Anomaly Detection (TAD) per Gartley and Basener 2009  
+Python   
+https://github.com/claesenm/EnsembleSVM  
+A Library for Ensemble Learning Using Support Vector Machines  
+C++   
 
 ### Random Forest
 https://github.com/scikit-learn-contrib/forest-confidence-interval  
@@ -468,6 +507,12 @@ Python
 https://github.com/ttomita/RandomerForest  
 Discriminant Projection Forest results, datasets, etc.  
 Matlab  
+https://github.com/andrewclegg/mondrianforest  
+Code for "Mondrian Forests: Efficient Online Random Forests"  
+Python   
+https://github.com/ajverster/RotationForest  
+An implementation of the Rotation Forest algorithm from Rodriguez et al. 2006  
+R  
 
 ### Recommender Systems & Factorization
 https://github.com/Evfro/polara  
@@ -535,6 +580,24 @@ Some recommendation algorithms and research
 R  
 https://github.com/yixuan/recosystem  
 Recommender System Using Parallel Matrix Factorization  
+C++  
+https://github.com/ocelma/python-recsys  
+A python library for implementing a recommender system  
+Python  
+https://github.com/trungngv/gpfm  
+Gaussian Process Factorization Machines for Context-aware Recommendations  
+Matlab  
+https://github.com/mblondel/spira  
+Recommender systems in Python  
+C  
+https://github.com/kyrre/ctr  
+collaborative topic regression with social matrix factorization   
+C++  
+https://github.com/chyikwei/recommend  
+recommendation system with python  
+Python  
+https://github.com/markusweimer/cofirank  
+CoFiRank -- Collaborative Filtering for Ranking  
 C++  
 
 ### Deep Learning
@@ -615,6 +678,9 @@ Python
 https://github.com/google/deepboost  
 Deep Boosting  
 C++  
+https://github.com/amirsaffari/online-multiclass-lpboost  
+Online Multi-Class LPBoost and Gradient Boosting  
+C++  
 
 ### Dimensionality Reduction
 https://github.com/DmitryUlyanov/Multicore-TSNE  
@@ -626,6 +692,9 @@ Python
 https://github.com/zygmuntz/dimensionality-reduction-for-sparse-binary-data  
 convert a lot of zeros and ones to fewer real numbers  
 Python   
+https://github.com/lisitsyn/tapkee  
+A flexible and efficient С++ template library for dimension reduction  
+C++  
 
 ### Time Series
 https://github.com/blue-yonder/tsfresh  
@@ -666,6 +735,9 @@ Python
 https://github.com/dsteinberg/libcluster  
 An extensible C++ library of Hierarchical Bayesian clustering algorithms, such as Bayesian Gaussian mixture models, variational Dirichlet processes, Gaussian latent Dirichlet allocation and more.  
 C++  
+https://github.com/aloctavodia/Doing_bayesian_data_analysis  
+Python/PyMC3 versions of the programs described in Doing bayesian data analysis by John K. Kruschke  
+Jupyter Notebook  
 
 ### Visualization
 https://github.com/olgabot/prettyplotlib  
@@ -686,6 +758,9 @@ C++
 https://github.com/glumpy/glumpy  
 Python+Numpy+OpenGL: fast, scalable and beautiful scientific visualization  
 Python  
+https://github.com/cornelltech/snack  
+Stochastic Neighbor and Crowd Kernel (SNaCK) embeddings: Quick and dirty visualization of large-scale datasets via concept embeddings  
+C++  
 
 ## Docs & Tutorials
 
@@ -804,6 +879,9 @@ A collection of research and survey papers of real-time bidding (RTB) based disp
 https://github.com/oreillymedia/t-SNE-tutorial  
 A tutorial on the t-SNE learning algorithm  
 JavaScript  
+https://github.com/duvenaud/phd-thesis  
+Automatic Model Construction with Gaussian Processes  
+TeX  
 
 ### Remote & Startup
 https://github.com/engineerapart/TheRemoteFreelancer  
@@ -933,6 +1011,9 @@ https://github.com/wilsonfreitas/awesome-quant
 A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)  
 https://github.com/andreis/interview  
 Everything you need to kick ass on your coding interview  
+https://github.com/space10-community/conversational-form  
+Turning web forms into conversations  
+HTML  
 
 ### C++, Python & SW Engineering
 https://github.com/Smerity/yolo-cpp  
@@ -1044,3 +1125,12 @@ Jupyter Notebook
 https://github.com/grfiv/healthcare_twitter_analysis  
 Healthcare Twitter Analysis  
 Jupyter Notebook  
+https://github.com/saffsd/kaggle-stumbleupon2013  
+Entry to the Kaggle 2013 StumbleUpon competition. Ranked 4th on the final private leaderboard.  
+Python  
+https://github.com/KirkHadley/SectorRotation  
+RF + GBM + ARIMA/NN Hybrid ensemble for predicting 6-month returns for the 9 sector ETFs plus IYZ  
+Python  
+https://github.com/harpribot/deep-summarization  
+Uses Recurrent Neural Network (LSTM/GRU/basic_RNN units) for summarization of amazon reviews  
+Python  
